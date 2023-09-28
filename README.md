@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to my website: https://magichear.github.io/
 ![Visitor Count](https://profile-counter.glitch.me/magichear/count.svg)
-<!--
-**magichear/magichear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+鸣谢：
+
+'homepage' 改编自 ： https://github.com/dmego/home.github.io
+
+'favorite' 改编自 ： https://github.com/xOS/Nange
+
+'四十三' 改编自 ： https://github.com/kaygb/kaygb
+
+'简历' 改编自 ： https://github.com/CyC2018/CyC2018.github.io
